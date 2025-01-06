@@ -12,7 +12,7 @@ Paper link here: [Decoupling Heterogeneous Features for Robust 3D Interacting Ha
 
 
 ## Installation and Setup
-### Requirements Dataset preparation
+### Requirements and dataset preparation
 please refer [https://github.com/ChanglongJiangGit/A2J-Transformer]
 
 
