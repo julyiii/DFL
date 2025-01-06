@@ -6,7 +6,7 @@ Paper link here: [Decoupling Heterogeneous Features for Robust 3D Interacting Ha
 # About our code 
 
 ## Updates 
-* ToDo update README.MD
+* ToDO update README.MD
 * (2025-01-06) Training code  for Interhand 2.6M released!.
 * (2025-01-06) Updated `test.py` and `base.py`
 
