@@ -6,12 +6,17 @@ Paper link here: [Decoupling Heterogeneous Features for Robust 3D Interacting Ha
 # About our code 
 
 ## Updates 
-
+* ToDo update README.MD
 * (2025-01-06) Training code  for Interhand 2.6M released!.
 * (2025-01-06) Updated `test.py` and `base.py`
 
 
 ## Installation and Setup
-### Requirements
+### Requirements Dataset preparation
+please refer [https://github.com/ChanglongJiangGit/A2J-Transformer]
+
+
+### Testing on InterHand 2.6M Dataset
+* Please download our [pre-trained model][https://drive.google.com/file/d/1o9ue4_irlDnn3f-NfqeSe_t7H8GZQabe/view?usp=sharing]
 
 
